@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "김민준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발 일기"
+  bio              : "개발 ** 일기"
   location         : "Somewhere"
   email            : "mjkim1128@naver.com"
   links:
